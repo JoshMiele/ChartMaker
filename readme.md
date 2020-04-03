@@ -5,7 +5,8 @@ The [iReal Pro iOS app](https://apps.apple.com/us/app/ireal-pro/id298206806) is 
 
 ## Downloading and Using ChartMaker
 ChartMaker is a Windows-based stopgap utility for converting MusicXML into JAM Braille. It is far from ideal, but is intended to make it relatively straight forward for motivated blind musicians to easily produce braille chord charts from iReal Pro MusicXML files.
-To install ChartMaker, download the ChartMaker ZIP file, unzip it, and put the ChartMaker folder in a convenient location on your Windows machine -- it doesn't need to be in any special location to work.
+
+To install ChartMaker, [download the ChartMaker ZIP file](https://github.com/JoshMiele/ChartMaker/archive/master.zip), unzip it, and put the ChartMaker folder in a convenient location on your Windows machine -- it doesn't need to be in any special location to work.
 To make beautiful braille chord charts  with ChartMaker follow these steps:
 1. Using the iReal Pro app, open any song and select Share. Select the "Export as XML" option and use email, dropbox, or some other method to get the XML file onto your Windows machine. Save   it in the XMLCharts directory of the ChartMaker folder.
 1. You can repeat the previous step as many times as you want -- ChartMaker can convert one or more  MusicXML files in a single shot.
@@ -46,7 +47,7 @@ Repeats and alternate endings are indicated using notation consistent with stand
 Alternate endings follow the repeated section and are indented by 5 spaces from the left margin. They begin with a number sign followed by a dropped number 1, 2, etc. to indicate the ending.
 
 ## Credits and Contacts
-JAM Braille is a collaboration between Josh Miele and Roberto Gonzalez -- two blind musicians who realized in 2018 that they were dissatisfied with their level of access to braille chord charts. We have plans to build a much more convenient cloud-based method for producing JAM Braille charts, but we were urged to offer access to this resource in the meantime. If you or someone you know would like to contribute knowledge or resources to the project, [please get in touch](mailto://jambrl@gmail.com).
+JAM Braille is a collaboration between Josh Miele and Roberto Gonzalez -- two blind musicians who realized in 2018 that they were dissatisfied with their level of access to braille chord charts. We have plans to build a much more convenient cloud-based method for producing JAM Braille charts, but we were urged to offer access to this resource in the meantime. If you or someone you know would like to contribute knowledge or resources to the project, [please get in touch](mailto://joshua.a.miele@gmail.com).
 If you have feedback or want to report a problem, please [file an issue](https://github.com/JoshMiele/ChartMaker/issues/new/choose).
 Thanks  to iReal Pro for making this amazing resource possible.
 
