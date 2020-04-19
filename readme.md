@@ -26,7 +26,7 @@ JAM Braille builds on BANA's guidelines for chord charts, but incorporates other
 The root of each chord is written using capital literary letters. For example, a C chord is written as a dot 6 followed by dots 14. Although this is different from standard braille music score notation, it is in keeping with the braille music standards for writing chord charts. 
 
 ### Chord Duration
-As in standard braille music, combinations of dots 3 and 6 below the note are used to indicate chord duration. The JAM Braille code is slightly different from that of braille music in order to improve clarity, but context  makes note durations quite clear. In JAM Braille, whole notes have no extra dots, while half notes, quarter notes, and eighth notes have dots 3, 6, and 36 respectively. In other words, a whole note C chord is dot 6 followed by dots 14, a half note C chord is dot 6 followed by dots 134, a quarter note C chord is dot 6 followed by dots 136, and an eighth note C chord is dot 6 followed by dots 1346. 
+As in standard braille music, combinations of dots 3 and 6 below the note are used to indicate chord duration. The JAM Braille code is slightly different from that of braille music in order to improve clarity, but context  makes note durations quite clear. In JAM Braille, whole notes have no extra dots, while half notes, quarter notes, and eighth notes have dots 3, 6, and 36 respectively. In other words, a whole note C chord is dot 6 followed by dots 14, a half note C chord is dot 6 followed by dots 134, a quarter note C chord is dot 6 followed by dots 146, and an eighth note C chord is dot 6 followed by dots 1346. 
 A dot 3 immediately following any chord designation indicates a dotted chord (the duration is extended by 50%). 
 
 ### Chord Types and Bass Notes
