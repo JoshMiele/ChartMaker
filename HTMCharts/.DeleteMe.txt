@@ -1,1 +1,3 @@
-
+This file can be safely deleted. 
+It is here only to make sure the HTMCharts folder gets created properly.
+Once you have unzipped ChartMaker onto your computer this file is no longer needed so you can delete it if you want.
