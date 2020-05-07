@@ -47,7 +47,7 @@ Repeats and alternate endings are indicated using notation consistent with stand
 Alternate endings follow the repeated section and are indented by 5 spaces from the left margin. They begin with a number sign followed by a dropped number 1, 2, etc. to indicate the ending.
 
 ## Credits and Contacts
-JAM Braille is a collaboration between Josh Miele and Roberto Gonzalez -- two blind musicians who realized in 2018 that they were dissatisfied with their level of access to braille chord charts. We have plans to build a much more convenient cloud-based method for producing JAM Braille charts, but we were urged to offer access to this resource in the meantime. If you or someone you know would like to get    involved or keep in touch with the project, [please join the JAMBRL mailing list](mailto://jambrl+subscribe@groups.io).
+JAM Braille is a collaboration between Josh Miele and Roberto Gonzalez -- two blind musicians who realized in 2018 that they were dissatisfied with their level of access to braille chord charts. We have plans to build a much more convenient cloud-based method for producing JAM Braille charts, but we were urged to offer access to this resource in the meantime. If you or someone you know would like to get    involved or keep in touch with the project, [please join the JAMBRL mailing list](mailto:jambrl+subscribe@groups.io).
 If you have feedback or want to report a problem, please [file an issue](https://github.com/JoshMiele/ChartMaker/issues/new/choose).
 Thanks  to iReal Pro for making this amazing resource possible.
 
